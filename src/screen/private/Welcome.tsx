@@ -50,9 +50,9 @@ const Welcome = () => {
                     intended by the source consumption.
                 </Text>
                 <Pressable
-                    onPress={() => navigate('Modychart')}
-                    bgColor={'rose.500'}
+                    onPress={() => navigate('Home')}
                     alignItems={'center'}
+                    bgColor={'rose.500'}
                     borderRadius={'12'}
                     px={8}
                     py={4}

@@ -5,8 +5,8 @@ import {NativeStackNavigationProp} from '@react-navigation/native-stack';
 export type PublicRoutesType = {};
 
 export type PrivateRoutesType = {
-  Modychart: undefined;
   Welcome: undefined;
+  Home: undefined;
 };
 
 export type BottomTabTypes = {};
